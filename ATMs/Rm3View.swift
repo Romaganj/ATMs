@@ -1,7 +1,7 @@
 //
 //  Rm3View.swift
 //  ATMs
-//
+//  code to commit
 //  Created by User on 12.09.2026.
 //
 
